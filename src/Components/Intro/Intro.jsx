@@ -17,7 +17,7 @@ const Intro = () => {
 			<div className="i-left">
 				<div className="i-name">
 					<span>¡Hola! yo soy</span>
-					<span>Thomas Valentín</span>
+					<span>Valentín Quijano</span>
 					<span>Desarrollador Frontend con alto nivel
 					de experiencia en diseño y desarrollo web,
 					producir el trabajo de calidad.</span>
