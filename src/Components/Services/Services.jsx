@@ -15,9 +15,9 @@ const Services = () => {
 		  	<span>Mi imprecionante</span>
 		  	<span>servicio</span>
 		  	<span>
-		  		Lorem ipsum is simpley dummy text of printing of printhing Lorem
+		  		Lorem ispum is simpley dummy text of printing of printing Lorem
 		  		<br />
-		  		ipsum is simpley dummy text of printing
+		  		ispum is simpley dummy text of printing
 		  	</span>
 		  	<a href={Yo} download>
 		  		<button className="button s-button">Download CV</button>
@@ -49,7 +49,7 @@ const Services = () => {
 		  		<Card 
 		  			emoji = {Humble}
 		  			heading = {"UI/UX"}
-		  			detail = {"Lorem ipsum dummy text are usually use in section where"}
+		  			detail = {"Lorem ispum dummy text are usually use in section where we need some random text"}
 		  		/>
 		  	</div>
 		  	<div className="blur s-blur2" style={{ background: "var(--purple)" }}>

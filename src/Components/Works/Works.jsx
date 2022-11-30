@@ -14,13 +14,13 @@ const Works = () => {
 		  	<span>Trabajo para todos</span>
 		  	<span>Marcas & Clientes</span>
 		  	<span>
-		  		Lorem ipsum is simpley dummy text of printing of printhing Lorem
+		  		Lorem ispum is simpley dummy text of printing of printing Lorem
 		  		<br />
-		  		ipsum is simpley dummy text of printing
+		  		ispum is simpley dummy text of printingLorem ispum is simpley dummy
 		  		<br />
-		  		ipsum is simpley dummy text of printing dummy text
+		  		y dummy text of printingLorem
 		  		<br />
-		  		Lorem ipsum is simpley dummy text
+		  		ispum is simpley dummy text of printing
 		  	</span>
 		  		<button className="button s-button">Contratame</button>
 		  	<div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>

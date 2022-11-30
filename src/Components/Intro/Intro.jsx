@@ -18,9 +18,11 @@ const Intro = () => {
 				<div className="i-name">
 					<span>¡Hola! yo soy</span>
 					<span>Valentín Quijano</span>
-					<span>Desarrollador Frontend con alto nivel
-					de experiencia en diseño y desarrollo web,
-					producir el trabajo de calidad.</span>
+					<span>
+						Desarrollador Frontend con alto nivel
+						de experiencia en diseño y desarrollo web,<br/>
+						me gusta producir trabajo de calidad.
+					</span>
 				</div>
 				<button className="button i-button">Contratame</button>
 				<div className="i-icons">
